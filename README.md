@@ -1,4 +1,4 @@
-![Rust CICD](https://github.com/nogibjj/IDS706-Mini-Project-7-sp699/actions/workflows/main.yml/badge.svg)
+![Rust CICD](https://github.com/nogibjj/IDS706-Mini-Project-7-sp699/actions/workflows/rust.yml/badge.svg)
 # IDS-706-Data-Engineering :computer:
 
 ## Mini Project 7 :page_facing_up: 
